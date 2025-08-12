@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, I am Dakshesh:
 🔭 I’m currently working on Simhastha Setu – a smart mobility and access management platform for Ujjain MahaKumbh 2028, aimed at seamless crowd flow, route optimization, and efficient access control during one of the world’s largest gatherings.<br>🤝 I’m looking for help with Integrating real-time location data, geospatial mapping, and scalable backend infrastructure to support millions of users.<br>🌱 I’m currently learning Spring AI, Spring Boot, React Basics, Hibernate.<br>💬 Ask me about Java backend development, Spring Boot APIs, project development, and managing events.<br>⚡ Fun fact I can debug backend code faster than I can decide where to eat dinner. 🍽️💻<br><br>
 
 
