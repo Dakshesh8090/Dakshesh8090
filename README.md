@@ -1,10 +1,9 @@
 # 💫 Hello, I am Dakshesh:
 🔭 I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution in software development.<br>🤝🌱 I’m currently learning Spring AI, Spring Boot, React Basics, Hibernate.<br>💬 Ask me about Java backend development, Spring Boot APIs, project development, and managing events.<br>⚡ Fun fact I can debug backend code faster than I can decide where to eat dinner. 🍽️💻
 
-🔗 [![My Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://daksheshportfolio.netlify.app/)
+🔗 [![My Portfolio]([https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fvector-art%2F11054403-portfolio-button-portfolio-speech-bubble-portfolio-colorful-web-banner-vector-illustration&psig=AOvVaw1PmIO4zHMGTN3mzymQWfVO&ust=1757914912086000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICl1MLF148DFQAAAAAdAAAAABAE))](https://daksheshportfolio.netlify.app/)
 <br><br>
 
-`
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daksheshh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dakshesh-singh-sherawat21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dakshesh.singhsherawat8090@gmail.com) 
 
