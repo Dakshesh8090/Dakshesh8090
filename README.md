@@ -1,7 +1,7 @@
 # 💫 Hello, I am Dakshesh:
 🔭 I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution in software development.<br>🤝🌱 I’m currently learning Spring AI, Spring Boot, React Basics, Hibernate.<br>💬 Ask me about Java backend development, Spring Boot APIs, project development, and managing events.<br>⚡ Fun fact I can debug backend code faster than I can decide where to eat dinner. 🍽️💻
 
-🔗 My portfolio [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://daksheshportfolio.netlify.app/)
+🔗 [![My Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://daksheshportfolio.netlify.app/)
 <br><br>
 
 `
